@@ -1,0 +1,5 @@
+account = {
+    'username': '',
+    'password': '',
+    'sckey': ''
+}
